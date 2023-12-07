@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/15 10:17:19.000.923,=C:\Users\user\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/15 10:29:33.000.807,=C:\Users\user\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/15 10:33:16.000.400,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmHome_U.pas=C:\Users\user\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/15 10:33:16.000.400,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmHome_U.dfm=C:\Users\user\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/15 10:33:59.000.066,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\dmData_U.dfm=C:\Users\user\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/03/15 10:33:59.000.066,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\dmData_U.pas=C:\Users\user\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/15 10:34:32.000.827,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\AanlynWinkel_U.dproj=C:\Users\user\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/15 11:57:35.000.797,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/03/15 12:00:38.000.042,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmAdministrator_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.dfm</Transaction>
+    <Transaction>2023/03/15 12:00:38.000.042,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmAdministrator_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/03/15 16:32:20.000.854,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\AanlynWinkel_U.dproj=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\OnlineShop_U.dproj</Transaction>
+    <Transaction>2023/03/15 16:57:54.000.882,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/03/15 17:00:46.000.501,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\OnlineShop_U.pas</Transaction>
+    <Transaction>2023/03/29 15:38:09.000.448,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 15:38:21.000.806,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Shop_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 18:06:43.000.569,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit2.pas</Transaction>
+    <Transaction>2023/03/30 18:08:53.000.768,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Cart_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit2.dfm</Transaction>
+    <Transaction>2023/03/30 18:08:53.000.768,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Cart_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit2.pas</Transaction>
+    <Transaction>2023/03/30 18:09:08.000.518,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Home_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmHome_U.dfm</Transaction>
+    <Transaction>2023/03/30 18:09:08.000.518,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Home_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmHome_U.pas</Transaction>
+    <Transaction>2023/03/30 18:09:31.000.174,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Administrator_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmAdministrator_U.dfm</Transaction>
+    <Transaction>2023/03/30 18:09:31.000.174,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Administrator_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\frmAdministrator_U.pas</Transaction>
+    <Transaction>2023/03/30 18:23:17.000.149,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ShoppingCart_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Cart_U.pas</Transaction>
+    <Transaction>2023/03/30 18:23:17.000.149,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ShoppingCart_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Cart_U.dfm</Transaction>
+    <Transaction>2023/04/08 14:10:31.000.273,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit2.pas</Transaction>
+    <Transaction>2023/04/08 14:13:21.000.065,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit2.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Checkout_U.pas</Transaction>
+    <Transaction>2023/04/08 14:13:21.000.065,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit2.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Checkout_U.dfm</Transaction>
+    <Transaction>2023/04/08 17:07:05.000.103,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Checkout_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Login_U.dfm</Transaction>
+    <Transaction>2023/04/08 17:07:05.000.103,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Checkout_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Login_U.pas</Transaction>
+    <Transaction>2023/04/09 12:49:09.000.429,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/09 12:58:58.000.426,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Register_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/09 12:58:58.000.426,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Register_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.dfm</Transaction>
+    <Transaction>2023/04/11 12:41:47.000.381,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/11 12:47:13.000.411,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\CollectionMethod_U.dfm</Transaction>
+    <Transaction>2023/04/11 12:47:13.000.411,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\CollectionMethod_U.pas</Transaction>
+    <Transaction>2023/04/24 17:41:16.000.645,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 17:42:01.000.324,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.pas</Transaction>
+    <Transaction>2023/04/24 17:42:01.000.324,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.dfm</Transaction>
+    <Transaction>2023/04/25 19:34:14.000.716,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/25 20:03:20.000.374,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Collect_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.dfm</Transaction>
+    <Transaction>2023/04/25 20:03:20.000.374,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Collect_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 16:19:24.000.108,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\NewAddress_U.pas</Transaction>
+    <Transaction>2023/04/26 16:19:24.000.108,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\NewAddress_U.dfm</Transaction>
+    <Transaction>2023/04/26 16:21:25.000.471,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\NewAddress_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Address_U.pas</Transaction>
+    <Transaction>2023/04/26 16:21:25.000.471,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\NewAddress_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Address_U.dfm</Transaction>
+    <Transaction>2023/04/26 16:22:13.000.430,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Address_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.dfm</Transaction>
+    <Transaction>2023/04/26 16:22:13.000.430,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Address_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.pas</Transaction>
+    <Transaction>2023/04/26 16:23:51.000.538,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ChangeAddress.dfm</Transaction>
+    <Transaction>2023/04/26 16:23:51.000.538,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ChangeAddress.pas</Transaction>
+    <Transaction>2023/04/26 20:40:25.000.807,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 20:44:32.000.410,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 20:44:32.000.410,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Delivery_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.dfm</Transaction>
+    <Transaction>2023/04/26 21:05:25.000.481,=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 21:58:32.000.688,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Payment_U.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.dfm</Transaction>
+    <Transaction>2023/04/26 21:58:32.000.688,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Payment_U.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 12:09:57.000.233,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ChangeAddress.dfm=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ChangeOrAddAddress_U.dfm</Transaction>
+    <Transaction>2023/04/27 12:09:57.000.233,C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ChangeAddress.pas=C:\Users\user\OneDrive\Desktop\Skoolwerk\Gr 12\PAT\Fase 2\ChangeOrAddAddress_U.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="dmData_U.pas"/>
+    <File Path="dmData_U.dfm"/>
+    <File Path="Shop_U.pas"/>
+    <File Path="Home_U.pas"/>
+    <File Path="Home_U.dfm"/>
+    <File Path="Administrator_U.pas"/>
+    <File Path="Administrator_U.dfm"/>
+    <File Path="ShoppingCart_U.pas"/>
+    <File Path="ShoppingCart_U.dfm"/>
+    <File Path="Login_U.pas"/>
+    <File Path="Login_U.dfm"/>
+    <File Path="Register_U.pas"/>
+    <File Path="Register_U.dfm"/>
+    <File Path="CollectionMethod_U.pas"/>
+    <File Path="CollectionMethod_U.dfm"/>
+    <File Path="Collect_U.pas"/>
+    <File Path="Collect_U.dfm"/>
+    <File Path="Delivery_U.pas"/>
+    <File Path="Delivery_U.dfm"/>
+    <File Path="Payment_U.pas"/>
+    <File Path="Payment_U.dfm"/>
+    <File Path="ChangeOrAddAddress_U.pas"/>
+    <File Path="ChangeOrAddAddress_U.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
